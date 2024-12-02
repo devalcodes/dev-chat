@@ -27,16 +27,17 @@
 ### Steps
 
 1. Clone the repository:
-
-bash
-git clone https://github.com/yourusername/dev-chat.git
-cd dev-chat
+   ```bash
+   git clone https://github.com/yourusername/dev-chat.git
+   cd dev-chat
 
 2. Install dependencies:
-npm run build
+      ```bash
+   npm run build
 
 3. Set up environment variables:
    Create a `.env` file in the root directory and add the following:
+   ```bash
     PORT=3000
     MONGODB_URI=
     JWT_SECRET=
@@ -45,10 +46,12 @@ npm run build
     CLOUDINARY_API_KEY=
     CLOUDINARY_API_SECRET=
 
-4. Start the development server:
-npm run dev
+5. Start the development server:
+   ```bash
+   npm run dev
 
-5. Open your browser and navigate to:
+6. Open your browser and navigate to:
+   ```bash
    http://localhost:3000
 
 ---
@@ -78,12 +81,12 @@ We welcome contributions! To contribute:
 
 1. Fork the repository.
 2. Create a new branch:
-bash
-git checkout -b feature/your-feature-name
+   ```bash
+   git checkout -b feature/your-feature-name
 
 3. Commit your changes:
-bash
-git commit -m "Add your message here"
+   ```bash
+   git commit -m "Add your message here"
 
 4. Push to your branch
    

@@ -33,8 +33,6 @@ git clone https://github.com/yourusername/dev-chat.git
 cd dev-chat
 
 2. Install dependencies:
-
-bash
 npm run build
 
 3. Set up environment variables:
@@ -48,8 +46,6 @@ npm run build
     CLOUDINARY_API_SECRET=
 
 4. Start the development server:
-
-bash
 npm run dev
 
 5. Open your browser and navigate to:
@@ -85,9 +81,17 @@ We welcome contributions! To contribute:
 bash
 git checkout -b feature/your-feature-name
 
-unknown
-Copy Code
-
 3. Commit your changes:
 bash
 git commit -m "Add your message here"
+
+4. Push to your branch
+   
+5. Open a Pull Request
+
+## Contact
+
+For questions or support, feel free to reach out:
+
+- **Email**: devalcodes@gmail.com
+- **GitHub**: [Dev Chat Repository](https://github.com/devalcodes/dev-chat)

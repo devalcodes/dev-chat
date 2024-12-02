@@ -16,6 +16,10 @@
 
 ---
 
+## Live App
+You can check out the live app [here](https://dev-chat-rox8.onrender.com).
+****
+
 ## Installation
 
 ### Prerequisites
